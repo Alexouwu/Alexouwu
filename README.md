@@ -4,7 +4,7 @@ Hi 👋 My name is Alejandro Garcia
 Software Developer and Robotics enthusiast
 ------------------------------------------
 
-I have a real pasion for programming, I started learning some basic C and continuea learning C++, python and javascript. I have worked as a full stack developer using React and NodeJS and as a Robotics Software Engineer for instrumenting and programming an autonomus platform using ROS
+I have a real pasion for programming, I started learning some basic C and continuea learning C++, python and javascript. I have worked as a full stack developer using React and NodeJS and as a Robotics Software Engineer for instrumenting and programming an autonomous platform using ROS
 
 * 🌍  I'm based in Mexico City
 * ✉️  You can contact me at [alejandro.arriaga.uwusito@gmail.com](mailto:alejandro.arriaga.uwusito@gmail.com)
