@@ -1,4 +1,4 @@
-Hi 👋 My name is Alejandro Garcia
+Hi 👋 My name is Alejandro
 =================================
 
 Software Developer and Robotics enthusiast
