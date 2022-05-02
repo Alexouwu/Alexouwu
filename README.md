@@ -10,7 +10,7 @@ I have a real pasion for programming, I started learning some basic C and contin
 * ✉️  You can contact me at [alejandro.arriaga.uwusito@gmail.com](mailto:alejandro.arriaga.uwusito@gmail.com)
 * 🧠  I'm learning how to create web interfaces for robots using ROS, also I am starting courses on ROS2, mastering C++, python and ReactJS
 * 🤝  I'm open to collaborating on interesting projects related to robotics, autonomous stuff, sensor fusion, web development and education
-* ⚡  Programer during day... Team Miku during nights
+* ⚡  Programer during the day... Team Miku during the night
 
 ### Skills
 
