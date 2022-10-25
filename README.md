@@ -1,7 +1,7 @@
 Hi 👋 My name is Alejandro
 =================================
 
-Software Developer and Robotics enthusiast
+Software Engineer and Robotics enthusiast
 ------------------------------------------
 
 I have a real pasion for programming, I started learning some basic C and continue learning C++, python and javascript. I have worked as a full stack developer using React and NodeJS and as a Robotics Software Engineer for instrumenting and programming an autonomous platform using ROS
