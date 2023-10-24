@@ -1,12 +1,14 @@
-Hi 👋 My name is Alejandro
+Hello 👋 everynyan 🐱 My name is Alejandro
 =================================
 
 Software Engineer and Robotics enthusiast
 ------------------------------------------
 
-I have a real pasion for programming, I started learning some basic C and continue learning C++, python and javascript. I have worked as a full stack developer using React and NodeJS and as a Robotics Software Engineer for instrumenting and programming an autonomous platform using ROS
+I have a real passion for programming, I started learning some basic C and continue learning modern C++, python3 and javascript. I have worked as a full stack developer using React and NodeJS and as a Robotics Software Engineer for instrumenting and programming an autonomous platform using ROS. Currently I'm working as a robotics software developer, developing software for industrial grade ARMs (pretty amazing tbh).
 
-* 🌍  I'm based in Mexico City
+I'm currently getting into the CS world, as a robotics software engineer I know how to code, but I'm getting head first into CS to gain more knowledge, expertise on how to write quality, readable and maintainable code.
+
+* 🌍  I'm based in Zapopan, Jalisco
 * ✉️  You can contact me at [alejandro.arriaga.uwusito@gmail.com](mailto:alejandro.arriaga.uwusito@gmail.com)
 * 🧠  I'm learning how to create web interfaces for robots using ROS, also I am starting courses on ROS2, mastering C++, python and ReactJS
 * 🤝  I'm open to collaborating on interesting projects related to robotics, autonomous stuff, sensor fusion, web development and education
