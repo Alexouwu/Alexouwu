@@ -12,8 +12,6 @@ I'm currently getting into the CS world, as a robotics software engineer I know 
 * ✉️  You can contact me at [alejandro.arriaga.uwusito@gmail.com](mailto:alejandro.arriaga.uwusito@gmail.com)
 * 🧠  I know how to use and interact with a variety of sensors such as encoders, IMUs, LiDARs 2D/3D, cameras 2D/3D, radar and automotive-grade ultrasonic sensors.
 * 🤖  I specialize on building autonomous mobile robots with C++, some python and ROS, if needed.
-* ⛩️  I watch A LOT of anime, currently trying to catch up with One Piece. My favorite anime is Go-Tōbun no Hanayome, and yep I'm Team Miku 4ever.
-* 🐐  I also play Genshin Impact, not as much as before but I still roll for my favorite characters. My main team is GanyuGod 🐐, Raiden, Shenhe and Diona. (Waifu > Meta)
 * 🤝  I'm open to collaborating on interesting projects related to robotics, autonomous stuff, sensor fusion, web development and education
 * ⚡  Programer at day... Team Miku at night
 
