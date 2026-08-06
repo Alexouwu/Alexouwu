@@ -1,4 +1,4 @@
-Hello 👋 everynyan 🐱
+Hello 👋
 =================================
 
 Software Engineer and Robotics enthusiast
